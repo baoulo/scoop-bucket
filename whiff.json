@@ -1,12 +1,12 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Describe any file as one JSON document for people and LLMs",
   "homepage": "https://github.com/baoulo/whiff",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/baoulo/whiff/releases/download/v0.5.0/whiff-v0.5.0-windows-x86_64.zip",
-      "hash": "77e5f66878bc7a8b84be7d4f5970981c0cff9b19e3260419909faa68e12b871e"
+      "url": "https://github.com/baoulo/whiff/releases/download/v0.5.1/whiff-v0.5.1-windows-x86_64.zip",
+      "hash": "54558a3cae5cb3ce2abe1c64d311b4c36234b102284194cac0f60b8787b8d3e9"
     }
   },
   "bin": "whiff.exe",
