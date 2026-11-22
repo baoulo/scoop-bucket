@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/baoulo/sastri/releases/download/v0.2.0/sastri-v0.2.0-windows-x86_64.zip",
-      "hash": "8ebe735032465f1490aa7ece9ff92d036b69f95d36fd46863bd553ac9cdafc80"
+      "hash": "9d49c916b561642e601066502885977313ca248b14075e3e0cef952b67e461d7"
     }
   },
   "bin": "sastri.exe",
